@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as i,a0 as r}from"./chunks/framework.CShDTZbC.js";const u=JSON.parse('{"title":"Алиса Котикова — резюме","description":"","frontmatter":{},"headers":[],"relativePath":"cv.md","filePath":"cv.md"}'),o={name:"cv.md"};function c(l,e,n,d,s,h){return t(),i("div",null,[...e[0]||(e[0]=[r("",8)])])}const _=a(o,[["render",c]]);export{u as __pageData,_ as default};
